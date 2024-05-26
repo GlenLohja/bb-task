@@ -6,6 +6,7 @@
 2. [Design Choices](#design-choices)
    - [Backend](#backend)
    - [Frontend](#frontend)
+   - [Testing](#testing)
 3. [Running the Application](#running-the-application)
    - [Clone the repository](#clone-the-repository)
    - [Backend](#backend-setup)
@@ -48,6 +49,18 @@ This application consists of a Django backend and a React frontend. The backend 
 - **Components**:
   - **LoanCalculator**: Main component that handles input fields for loan amount, interest rate, and loan term, and displays the calculated monthly payment.
   - **InputField**: Reusable input field component with validation and error display.
+
+### Testing
+
+- **Backend Testing**:
+  - **Framework**: Django's built-in testing framework
+  - **Tools**: unittest, Django Test Client
+  - **Coverage**: Tests cover models, views, serializers, and API endpoints.
+
+- **Frontend Testing**:
+  - **Framework**: Jest
+  - **Tools**: React Testing Library
+  - **Coverage**: Tests cover components, hooks, and API interactions.
 
 ## Running the Application
 
