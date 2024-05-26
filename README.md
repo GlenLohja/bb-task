@@ -106,7 +106,7 @@ The frontend application should now be running on http://localhost:3000.
 
 ### Backend Tests
 
-Django tests can be found in :  [backend/backend/tests](https://github.com/GlenLohja/bb-task/tree/main/backend/backend/tests)
+Django tests can be found in :  [backend/loan/tests](https://github.com/GlenLohja/bb-task/tree/main/backend/loan/tests)
 
 
 1. Navigate to the backend directory:
@@ -115,7 +115,7 @@ Django tests can be found in :  [backend/backend/tests](https://github.com/GlenL
    ```
 2. Run the tests using Django's test runner
    ```sh
-   python manage.py test backend/tests
+   python manage.py test loan/tests
    ```
 ### Frontend Tests
 
