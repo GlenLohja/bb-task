@@ -241,5 +241,10 @@ React (Jest) tests can be found in : [frontend/src/components/__tests__](https:/
   - The frontend ensures that the loan amount, interest rate, and loan term are positive numbers before submitting the form.
   - Displays appropriate error messages for invalid inputs.
 
+## Sneak Peek
+
+Here’s a quick preview of the main page of the Loan Calculator Application:
+
+![Main Page Screenshot](https://github.com/GlenLohja/bb-task/blob/main/react-page-overview.png)
 
 
