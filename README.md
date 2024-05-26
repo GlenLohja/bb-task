@@ -51,13 +51,13 @@ This application consists of a Django backend and a React frontend. The backend 
 
 ## Running the Application
 
-### (1) Clone the repository:
+### Clone the repository:
    ```sh
    git clone https://github.com/GlenLohja/bb-task
    cd bb-task
    ```
 
-### (2) Backend Setup
+### Backend Setup
 
 #### Prerequisites (**Required**)
 
@@ -82,7 +82,7 @@ This application consists of a Django backend and a React frontend. The backend 
    python manage.py runserver
    ```
 
-### (3) Frontend Setup
+### Frontend Setup
 
 #### Prerequisites (**Required**)
 
