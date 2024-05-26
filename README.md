@@ -101,7 +101,8 @@ This application consists of a Django backend and a React frontend. The backend 
 
 - Node.js
 - npm (Node package manager)
-
+- backend must be running
+  
 #### Setup
 
 1. Navigate to the frontend directory:
