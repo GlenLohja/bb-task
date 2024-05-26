@@ -109,6 +109,8 @@ This application consists of a Django backend and a React frontend. The backend 
   
 #### Setup
 
+**To start go back to the main directory that we cloned earlier (bb-task)**
+
 1. Navigate to the frontend directory:
    ```sh
    cd frontend
