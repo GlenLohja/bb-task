@@ -103,7 +103,7 @@ This application consists of a Django backend and a React frontend. The backend 
 
 **Before you begin, ensure you have met the following requirements:**
 
-- Node.js [official Node.js website](https://nodejs.org/).
+- Node.js (v14.x and above). [official Node.js website](https://nodejs.org/).
 - npm (Node package manager)
 - backend must be running
   
