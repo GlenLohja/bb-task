@@ -1,5 +1,5 @@
 from django.test import TestCase
-from backend.models import Customer, LoanOffer
+from loan.models import Customer, LoanOffer
 
 # This class contains tests for the Customer model.
 class CustomerModelTests(TestCase):

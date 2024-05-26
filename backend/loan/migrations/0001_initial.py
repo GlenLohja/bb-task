@@ -28,7 +28,7 @@ class Migration(migrations.Migration):
                 ('loan_amount', models.DecimalField(decimal_places=2, max_digits=10)),
                 ('interest_rate', models.DecimalField(decimal_places=2, max_digits=5)),
                 ('loan_term', models.IntegerField()),
-                ('customer', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='backend.customer')),
+                ('customer', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='loan.customer')),
             ],
         ),
     ]

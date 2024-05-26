@@ -1,7 +1,7 @@
 from django.urls import reverse
 from rest_framework import status
 from rest_framework.test import APITestCase
-from backend.models import Customer
+from loan.models import Customer
 
 # This class contains tests for the Customer-related API endpoints.
 class CustomerTests(APITestCase):
