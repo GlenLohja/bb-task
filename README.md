@@ -11,14 +11,15 @@
    - [Clone the repository](#clone-the-repository)
    - [Backend](#backend-setup)
    - [Frontend](#frontend-setup)
-5. [Running Tests](#running-tests)
+4. [Running Tests](#running-tests)
    - [Backend Tests](#backend-tests)
    - [Frontend Tests](#frontend-tests)
-6. [API Endpoints Documentation](#api-endpoints-documentation)
+5. [API Endpoints Documentation](#api-endpoints-documentation)
    - [Customer Endpoints](#customer-endpoints)
    - [Loan Offer Endpoints](#loan-offer-endpoints)
    - [Loan Calculator Endpoint](#loan-calculator-endpoint)
-7. [Validation](#validation)
+6. [Validation](#validation)
+7. [Application Preview](#application-preview)
 
 ## Overview
 
@@ -241,7 +242,7 @@ React (Jest) tests can be found in : [frontend/src/components/__tests__](https:/
   - The frontend ensures that the loan amount, interest rate, and loan term are positive numbers before submitting the form.
   - Displays appropriate error messages for invalid inputs.
 
-## Sneak Peek
+## Application Preview
 
 Here’s a quick preview of the main page of the Loan Calculator Application:
 
