@@ -10,13 +10,14 @@
    - [Backend](#backend-setup)
    - [Frontend](#frontend-setup)
 4. [Running Tests](#running-tests)
+   - [Clone the repository](#clone-the-repository)
    - [Backend Tests](#backend-tests)
    - [Frontend Tests](#frontend-tests)
-5. [API Endpoints Documentation](#api-endpoints-documentation)
+6. [API Endpoints Documentation](#api-endpoints-documentation)
    - [Customer Endpoints](#customer-endpoints)
    - [Loan Offer Endpoints](#loan-offer-endpoints)
    - [Loan Calculator Endpoint](#loan-calculator-endpoint)
-6. [Validation](#validation)
+7. [Validation](#validation)
 
 ## Overview
 
