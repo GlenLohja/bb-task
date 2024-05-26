@@ -74,6 +74,8 @@ This application consists of a Django backend and a React frontend. The backend 
 
 #### Prerequisites (**Required**)
 
+**Before you begin, ensure you have met the following requirements:**
+
 - Python 3.x
 - pip (Python package installer)
 
@@ -98,6 +100,8 @@ This application consists of a Django backend and a React frontend. The backend 
 ### Frontend Setup
 
 #### Prerequisites (**Required**)
+
+**Before you begin, ensure you have met the following requirements:**
 
 - Node.js
 - npm (Node package manager)
