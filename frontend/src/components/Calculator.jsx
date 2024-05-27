@@ -97,7 +97,7 @@ const LoanCalculator = () => {
       setMonthlyPayment(data.monthly_payment);
     } catch (error) {
       console.error("Error calculating loan payment", error);
-      setError("Failed to calculate loan payment. Please try again.");
+      setError("Could not communicate with the backend. Please try again.");
     } finally {
       setLoading(false);
     }
