@@ -117,7 +117,7 @@ This application consists of a Django backend and a React frontend. The backend 
    cd frontend
    npm install
    ```
-2. Start the development server:
+2. Start the development server (Keep django backend running for the calculator to work):
    ```sh
    npm start
    ```
